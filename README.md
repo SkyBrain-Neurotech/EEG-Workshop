@@ -211,21 +211,6 @@ NOTCH_FREQ = 60.0  # Hz
 4. **Validate filtering** - check frequency response
 5. **Report settings** in publications
 
-## 🤝 Contributing
-
-We welcome contributions! Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Add your improvements
-4. Submit a pull request
-
-Ideas for contributions:
-- Additional analysis methods
-- More example datasets
-- Translations
-- Bug fixes
-- Documentation improvements
 
 ## 📄 License
 
